@@ -1,4 +1,5 @@
-# devops-nginx
+# Домашнее задание к занятию «Микросервисы: принципы»
+## Задача 3: API Gateway
 Создал такой конфиг [nginx.conf](https://github.com/bag2000/devops-nginx/blob/main/gateway/nginx.conf)  
   
 Пытаюсь получить токен: 
